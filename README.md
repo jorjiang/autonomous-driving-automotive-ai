@@ -1,5 +1,5 @@
 # autonomous-driving-automotive-ai
-automotive-ai
+
 In this project a car is made to navigate autonomously in a simulated environment.
 9 layer convolution neural network is implemented to clone autonomous driving behavior
 
