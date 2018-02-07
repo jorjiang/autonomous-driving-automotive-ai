@@ -1,5 +1,7 @@
 # autonomous-driving-automotive-ai
 automotive-ai
+In this project a car is made to navigate autonomously in a simulated environment.
+9 layer convolution neural network is implemented to clone autonomous driving behavior
 
 Code for use in my autonomous driving research. Consists of largely-independent python packages
 making heavy use of the numpy, scipy, and matplotlib libaries. 
